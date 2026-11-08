@@ -1,5 +1,4 @@
 name: Build RP2350 Firmware
-
 on:
   push:
 
